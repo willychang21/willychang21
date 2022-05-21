@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chun Chieh (Willy) Chang</h1>
-<h3 align="center">A passionate iOS develop in Taiwan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=willychang21&label=Profile%20views&color=0e75b6&style=flat" alt="willychang21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willychang21" alt="willychang21" /></a> </p>
+<h1 align="left">Hi 👋, I'm Chun Chieh (Willy) Chang</h1>
+<h3 align="left">A passionate iOS develop in Taiwan</h3>
 
 - 🔭 I’m currently working on [Messenger](https://github.com/willychang21/Messenger)
 
@@ -13,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/chun-chieh-chang-127805174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/chun-chieh-chang-127805174" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chun-chieh-chang-127805174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/chun-chieh-chang-127805174" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=willychang21&show_icons=true&locale=en" alt="willychang21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=willychang21&" alt="willychang21" /></p>
