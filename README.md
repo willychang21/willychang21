@@ -2,7 +2,7 @@
 A passionate Fall Stack Engineer in Taiwan
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willychang21&label=Profile%20views&color=0e75b6&style=flat" alt="willychang21" /> </p>
 
-- 🔭 I’m currently working on [Messenger](https://github.com/willychang21/Messenger)
+- 🔭 I’m currently working on CS61B
 
 - 🌱 I’m currently learning **React.js**
 
