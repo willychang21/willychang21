@@ -1,12 +1,6 @@
 <h3 align="left">Hi 👋, I'm Chun Chieh (Willy) Chang</h3>
-A passionate Fall Stack Engineer in Taiwan
+I am an ideal candidate for the software engineer position as a passionate student with a strong sense of organization and analytical ability. I pursued a Master of Science degree in Computer Software Engineering at Northeastern University, which focused on web and mobile development, while simultaneously studying for an online Master of Computer Science at the University of Illinois Urbana-Champaign, where I developed an interest in Machine Learning and Cloud Computing. My dual education and experience make me well-suited for a software engineer position.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willychang21&label=Profile%20views&color=0e75b6&style=flat" alt="willychang21" /> </p>
-
-- 🔭 I’m currently working on CS61B
-
-- 🌱 I’m currently learning **React.js**
-
-- 📫 How to reach me **willychang21@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=willychang21&show_icons=true&locale=en&layout=compact" alt="willychang21" /></p>
 
