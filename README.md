@@ -1,5 +1,11 @@
 <h3 align="left">Hi 👋, I'm Chun Chieh (Willy) Chang</h3>
-I am an ideal candidate for the software engineer position as a passionate student with a strong sense of organization and analytical ability. I pursued a Master of Science degree in Computer Software Engineering at Northeastern University, which focused on web and mobile development, while simultaneously studying for an online Master of Computer Science at the University of Illinois Urbana-Champaign, where I developed an interest in Machine Learning and Cloud Computing. My dual education and experience make me well-suited for a software engineer position.
+As a highly motivated and dedicated student, I believe I am an excellent fit for the Software Engineer position. My Master of Science degree in Computer Software Engineering from Northeastern University, which emphasized web and mobile development, combined with my online Master of Computer Science from the University of Illinois Urbana-Champaign, where I honed my skills in Machine Learning and Cloud Computing, have equipped me with a broad range of technical skills and knowledge.
+
+I possess strong analytical abilities and a keen sense of organization, which allow me to effectively plan and execute complex projects. Additionally, my passion for technology and innovation, combined with my dual education, make me a well-rounded candidate who can bring a unique perspective to the role.
+
+I am confident that my academic background, technical skills, and passion for technology would make me an asset to your team. I am eager to apply my skills and knowledge to help drive the success of your organization.
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willychang21&label=Profile%20views&color=0e75b6&style=flat" alt="willychang21" /> </p>
 
