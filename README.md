@@ -7,8 +7,6 @@ I possess strong analytical abilities and a keen sense of organization, which al
 I am confident that my academic background, technical skills, and passion for technology would make me an asset to your team. I am eager to apply my skills and knowledge to help drive the success of your organization.  
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=willychang21&label=Profile%20views&color=0e75b6&style=flat" alt="willychang21" /> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=willychang21&show_icons=true&locale=en&layout=compact" alt="willychang21" /></p>
 
 <h3 align="left">Connect with me:</h3>
