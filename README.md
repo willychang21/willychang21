@@ -1,11 +1,11 @@
 <h3 align="left">Hi 👋, I'm Chun Chieh (Willy) Chang</h3>
-As a highly motivated and dedicated student, I believe I am an excellent fit for the Software Engineer position. My Master of Science degree in Computer Software Engineering from Northeastern University, which emphasized web and mobile development, combined with my online Master of Computer Science from the University of Illinois Urbana-Champaign, where I honed my skills in Machine Learning and Cloud Computing, have equipped me with a broad range of technical skills and knowledge.
 
-I possess strong analytical abilities and a keen sense of organization, which allow me to effectively plan and execute complex projects. Additionally, my passion for technology and innovation, combined with my dual education, make me a well-rounded candidate who can bring a unique perspective to the role.
+As a highly motivated and dedicated student, I believe I am an excellent fit for the Software Engineer position. My Master of Science degree in Computer Software Engineering from Northeastern University, which emphasized web and mobile development, combined with my online Master of Computer Science from the University of Illinois Urbana-Champaign, where I honed my skills in Machine Learning and Cloud Computing, have equipped me with a broad range of technical skills and knowledge.  
 
-I am confident that my academic background, technical skills, and passion for technology would make me an asset to your team. I am eager to apply my skills and knowledge to help drive the success of your organization.
+I possess strong analytical abilities and a keen sense of organization, which allow me to effectively plan and execute complex projects. Additionally, my passion for technology and innovation, combined with my dual education, make me a well-rounded candidate who can bring a unique perspective to the role.  
 
-<br>
+I am confident that my academic background, technical skills, and passion for technology would make me an asset to your team. I am eager to apply my skills and knowledge to help drive the success of your organization.  
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willychang21&label=Profile%20views&color=0e75b6&style=flat" alt="willychang21" /> </p>
 
