@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋, Nice to see you.</h3>
-I'm Willy, Software engineer from 🇹🇼 <strong>Taiwan</strong>, currently living in 🇺🇸 <strong>Seattle, USA</strong>.
+I'm Willy, Software engineer from 🇹🇼 <strong>Taiwan</strong>, currently living in 🇺🇸 <strong>Champaign, IL</strong>.
 <br/>   
 
 ## Things I code with
