@@ -1,6 +1,7 @@
 <h3 align="left">Hi 👋, Nice to see you.</h3>
 I'm Willy, Software engineer from 🇹🇼 <strong>Taiwan</strong>, currently looking for 2024 Summer Software Engineer Internship.
-<br/>   
+
+## Contact
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](willychang17@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/willychang17/)
@@ -17,7 +18,7 @@ I'm Willy, Software engineer from 🇹🇼 <strong>Taiwan</strong>, currently lo
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,nextjs,nodejs,npm,tailwind,materialui,bootstrap,jest,express,flask,babel,vite,vercel,postman)](https://skillicons.dev)
 
 ### Database & Big Data
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,redis,dynamodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,supabase,redis,dynamodb)](https://skillicons.dev)
 
 
 ### Cloud & DevOps  
