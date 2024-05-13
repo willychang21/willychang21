@@ -15,10 +15,10 @@ I'm Willy, Software engineer from 🇹🇼 <strong>Taiwan</strong>, currently lo
 
 
 ### Web
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,nextjs,nodejs,npm,tailwind,materialui,bootstrap,jest,express,flask,babel,vite,vercel,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,svelte,nodejs,npm,tailwind,materialui,bootstrap,express,nestjs,flask,babel,vite,vercel,postman,jest)](https://skillicons.dev)
 
 ### Database & Big Data
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,supabase,redis,dynamodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,redis,dynamodb,elasticsearch,kafka,prisma)](https://skillicons.dev)
 
 
 ### Cloud & DevOps  
