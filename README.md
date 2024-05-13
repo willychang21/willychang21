@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋, Nice to see you.</h3>
-I'm Willy, Software engineer from 🇹🇼 <strong>Taiwan</strong>, currently looking for 2024 Summer Software Engineer Internship.
+I'm Willy, Software engineer from 🇹🇼 <strong>Taiwan</strong>, currently looking for 2025 Software Engineer New Grad.
 
 ## Contact
 
