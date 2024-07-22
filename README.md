@@ -72,6 +72,9 @@ I'm Willy, Software engineer from 🇹🇼 <strong>Taiwan</strong>, currently lo
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon%20Cognito-FF9900?style=for-the-badge&logo=amazon-cognito&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon%20Lex-FF9900?style=for-the-badge&logo=amazon-lex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20api%20gateway-FF9900?style=for-the-badge&logo=amazonapigateway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/amazon%20cloud%20watch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+
 </p>
 
 ### GCP
